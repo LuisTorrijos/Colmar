@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    height: 64px;
+    width: auto;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.nav {
+    text-align: right;
+    margin-right: 24px;
+}
+
+.nav span {
+    padding-right: 16px;
+}
